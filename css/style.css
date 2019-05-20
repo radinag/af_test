@@ -117,7 +117,7 @@ body {
 
 /*  Section 3 */
 .parallax-section {
-  background: url('/img/ParallaxOne_5.jpg');
+  background: url('../img/ParallaxOne_5.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -193,7 +193,7 @@ body {
 
 /* Section 5 */
 .container-five {
-  background: linear-gradient(to right, #A41F25, transparent), url('/img/Gears_15.jpg');
+  background: linear-gradient(to right, #A41F25, transparent), url('../img/Gears_15.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -221,7 +221,7 @@ body {
 
 /* Section 6 */
 .section-six {
-  background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(255, 255, 255), transparent), url('/img/TransparentArrowBkgd.jpg');
+  background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(255, 255, 255), transparent), url('../img/TransparentArrowBkgd.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
